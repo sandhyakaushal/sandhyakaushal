@@ -1,28 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sandhya</h1>
-<h3 align="center">Aspiring Software Developer from India 🇮🇳</h3>
+## 💫 About Me
 
+Hi 👋, I'm **Sandhya Kaushal**
+An aspiring Software Developer from India
 ---
 
-💻 I'm passionate about **Programming & Problem Solving**  
-🌱 Currently learning **Data Structures and Algorithms (DSA)**  
-🤝 Open to learning and growing together  
-
----
-
-## 🧠 Ask Me About
-
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-red)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-
+🚀 Leveling up problem-solving skills with **DSA**  
+🐍☕ Crafting clean logic using **Python & Java**
+🐞 Coding my way through bugs, logic, and late-night ideas
 ---
 
 ## ✨ Fun Fact
@@ -30,5 +14,28 @@ I enjoy learning new things and improving myself step by step 🚀
 
 ---
 
-## 📫 Reach Me
-- GitHub: https://github.com/sandhyakaushal
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3A7AFE?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🌐 Web Basics
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+
+
+## 🚀 Let’s Build Something Cool
+
+Got an idea, a bug, or just curiosity? 👀  
+Find Me Around the Web 🌍
+
+💼 LinkedIn — https://www.linkedin.com/in/your-linkedin/  
+🧠 LeetCode — https://leetcode.com/u/your-username/  
+📧 Email — yourmail@gmail.com  
+
+🤝 Happy to connect, collaborate, and learn together
