@@ -1,20 +1,13 @@
-## 👋 About Me
+## 💫 About Me
 
-Hi, I'm **Sandhya Kaushal**  
-An aspiring Software Developer from India 🇮🇳
-
----
+Hi👋, I'm **Sandhya**  
+An aspiring developer from India.
 
 🚀 Leveling up my problem-solving skills with **Data Structures & Algorithms**  
-🐍☕ Crafting clean logic using **Python & Java**  
+🐍 Crafting clean logic using **Python & Java**  
 🐞 Coding my way through bugs, logic, and late-night ideas  
 
 ---
-
-## ✨ Fun Fact
-
-I enjoy learning new things and improving myself step by step 🚀
-
 
 ## 🛠 Tech Stack
 
