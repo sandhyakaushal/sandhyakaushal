@@ -19,7 +19,7 @@ I may seem reserved at first, but I open up quickly when the conversation has pu
 <hr style="height:3px; border:none; background-color:#4f545c; margin:14px 0;" />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,java,python,mysql,cpp,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,git,github,linux" />
 </p>
 
 <hr style="height:3px; border:none; background-color:#4f545c; margin:14px 0;" />
@@ -28,8 +28,8 @@ I may seem reserved at first, but I open up quickly when the conversation has pu
 
 ## 📬 Reach me via:
 
-- 🔗 **LinkedIn** — [adhiinsvy13](https://www.linkedin.com/in/adhiinsvy13)
-- 📧 **Mail** — divyanshisahu496@gmail.com
+- 🔗 **LinkedIn** — [Sandhya Kaushal](https://www.linkedin.com/in/sandhya-kaushal-7054b2324/)
+- 📧 **Mail** — arshi.kaushl222@gmail.com
 
 ---
 
