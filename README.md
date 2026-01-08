@@ -1,6 +1,16 @@
 ---
 
-<h2 align="center">🎯 A learner, building from India.</h2>
+<h1 align="center">
+  Hey there 👋 Welcome to my space
+</h1>
+
+<p align="center">
+  <b>I'm Sandhya — learning, building, improving</b>
+</p>
+
+<p align="center">
+  🌱 Student Developer | Web & DSA Enthusiast
+</p>
 
 ---
 
