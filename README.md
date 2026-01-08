@@ -36,6 +36,8 @@ I may seem reserved at first, but I open up quickly when the conversation has pu
 ✨ **Thanks for stopping by!**  
 If you’re reading this, you’re already curious too.
 
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandhyakaushal&theme=radical)
 
 ## 📊 LeetCode Stats
 
