@@ -25,9 +25,10 @@ An aspiring developer from India.
 
 
 ## 📊 LeetCode Stats
-🔥 Consistent DSA practice | One problem at a time
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sandhya_Kaushal?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/Sandhya_Kaushal/)
-
-![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=Sandhya_Kaushal)
+<p align="center">
+  <a href="https://leetcode.com/u/Sandhya_Kaushal/">
+    <img src="https://leetcard.jacoblin.cool/Sandhya_Kaushal?theme=dark&font=Baloo&ext=heatmap" />
+  </a>
+</p>
 
