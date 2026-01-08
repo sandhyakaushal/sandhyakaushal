@@ -30,3 +30,9 @@ An aspiring developer from India.
 ---
 
 ![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=Sandhya_Kaushal)
+
+## 📊 LeetCode Stats
+🔥 Consistent DSA practice | One problem at a time
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sandhya_Kaushal?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/Sandhya_Kaushal/)
+
