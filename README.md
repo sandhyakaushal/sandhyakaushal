@@ -23,14 +23,10 @@ An aspiring developer from India.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 LeetCode Stats
 
-## 🚀 Let’s Build Something Cool
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sandhya_Kaushal?theme=dark&font=Baloo)
 
-Got an idea, a bug, or just curiosity? 👀  
-Find Me Around the Web 🌍
+---
 
-💼 LinkedIn — https://www.linkedin.com/in/your-linkedin/  
-🧠 LeetCode — https://leetcode.com/u/your-username/  
-📧 Email — yourmail@gmail.com  
-
-🤝 Happy to connect, collaborate, and learn together
+![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=Sandhya_Kaushal)
