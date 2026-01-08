@@ -23,16 +23,11 @@ An aspiring developer from India.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sandhya_Kaushal?theme=dark&font=Baloo)
-
----
-
-![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=Sandhya_Kaushal)
 
 ## 📊 LeetCode Stats
 🔥 Consistent DSA practice | One problem at a time
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Sandhya_Kaushal?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/Sandhya_Kaushal/)
+
+![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=Sandhya_Kaushal)
 
