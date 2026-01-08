@@ -8,12 +8,11 @@ An aspiring developer from India.
 🐞 Coding my way through bugs, logic, and late-night ideas  
 
 ---
-
 ## 📚 My Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,java,python,mysql,cpp,git,github,linux" />
 </p>
-
+---
 
 ## 📊 LeetCode Stats
 
