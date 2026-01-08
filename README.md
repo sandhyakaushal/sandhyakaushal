@@ -1,11 +1,11 @@
----
+<img width="1340" height="639" alt="image" src="https://github.com/user-attachments/assets/104d48b5-bc90-469c-9913-f27290811fe9" />---
 
 <h1 align="center">
-  Hey there 👋 Welcome to my space
+  Hi👋, Welcome to my space
 </h1>
 
 <p align="center">
-  <b>I'm Sandhya — learning, building, improving</b>
+  <b>**I'm Sandhya**
 </p>
 
 <p align="center">
@@ -22,8 +22,8 @@ I notice patterns before they’re obvious. I build for the web, learn languages
 - 🌱 Currently exploring **Machine Learning**
 - 🤝 Always open to building meaningful things together
 
-**💡 Fun fact:**  
-I have a knack for making strangers feel like old friends!
+**💭 Fun side of me:**  
+I may seem reserved at first, but I open up quickly when the conversation has purpose.
 
 ---
 
