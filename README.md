@@ -1,16 +1,3 @@
-<img width="1340" height="639" alt="image" src="https://github.com/user-attachments/assets/104d48b5-bc90-469c-9913-f27290811fe9" />---
-
-<h1 align="center">
-  Hi👋, Welcome to my space
-</h1>
-
-<p align="center">
-  <b>**I'm Sandhya**
-</p>
-
-<p align="center">
-  🌱 Student Developer | Web & DSA Enthusiast
-</p>
 
 ---
 
