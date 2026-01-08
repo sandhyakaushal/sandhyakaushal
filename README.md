@@ -10,11 +10,9 @@ An aspiring developer from India.
 ---
 
 ## 📚 My Tech Stack
-
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,java,python,mysql,cpp,git,github,linux" />
 </p>
-
 
 
 ## 📊 LeetCode Stats
