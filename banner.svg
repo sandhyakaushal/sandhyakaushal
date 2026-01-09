@@ -1,0 +1,90 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <!-- Smooth cosmic gradient -->
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0a0f1f"/>
+    <stop offset="50%" stop-color="#050814"/>
+    <stop offset="100%" stop-color="#02030a"/>
+  </linearGradient>
+
+  <!-- Glow -->
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <style>
+    .name {
+      font-family: Inter, Segoe UI, system-ui, sans-serif;
+      font-size: 54px;
+      font-weight: 300;
+      fill: #e5e7eb;
+      letter-spacing: 0.6px;
+    }
+    .role {
+      font-family: Inter, Segoe UI, system-ui, sans-serif;
+      font-size: 24px;
+      font-weight: 300;
+      fill: #9ca3af;
+    }
+    .wave {
+      fill: none;
+      stroke-width: 1;
+      opacity: 0.35;
+    }
+  </style>
+</defs>
+
+<rect width="1200" height="260" fill="url(#bg)"/>
+
+<!-- Flowing waves (THIS is the magic) -->
+<path d="M0 80 Q300 40 600 80 T1200 80"
+  stroke="#60a5fa" class="wave">
+  <animateTransform type="translate"
+    from="0 0" to="-120 0"
+    dur="18s" repeatCount="indefinite"/>
+</path>
+
+<path d="M0 140 Q300 180 600 140 T1200 140"
+  stroke="#a78bfa" class="wave">
+  <animateTransform type="translate"
+    from="0 0" to="120 0"
+    dur="22s" repeatCount="indefinite"/>
+</path>
+
+<path d="M0 200 Q300 160 600 200 T1200 200"
+  stroke="#22d3ee" class="wave">
+  <animateTransform type="translate"
+    from="0 0" to="-100 0"
+    dur="26s" repeatCount="indefinite"/>
+</path>
+
+<!-- Floating glow nodes -->
+<g filter="url(#glow)">
+  <circle cx="250" cy="70" r="2.4" fill="#facc15">
+    <animateTransform type="translate"
+      from="-10 -6" to="10 6"
+      dur="8s" repeatCount="indefinite" direction="alternate"/>
+  </circle>
+  <circle cx="950" cy="170" r="2.4" fill="#f472b6">
+    <animateTransform type="translate"
+      from="8 -8" to="-8 8"
+      dur="9s" repeatCount="indefinite" direction="alternate"/>
+  </circle>
+</g>
+
+<!-- TEXT -->
+<text x="600" y="130" text-anchor="middle" class="name">
+Sandhya Kaushal
+</text>
+
+<text x="600" y="170" text-anchor="middle" class="role">
+Computer Science Student
+</text>
+
+</svg>
