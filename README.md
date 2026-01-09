@@ -1,28 +1,27 @@
-
----
-
-### 🔍 Getting to Know Me
-
-I notice patterns before they’re obvious. I build for the web, learn languages—technical and spoken—and document ideas to turn complexity into clarity.
-
-- 💻 I'm passionate about **Web Development**
-- 🌱 Currently exploring **Machine Learning**
-- 🤝 Always open to building meaningful things together
-
-**💭 Fun side of me:**  
-I may seem reserved at first, but I open up quickly when the conversation has purpose.
-
----
-
-## 📚 My Tech Stack
-
-<hr style="height:3px; border:none; background-color:#4f545c; margin:14px 0;" />
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,git,github,linux" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sandhyakaushal/sandhyakaushal/main/banner.svg" />
 </p>
 
-<hr style="height:3px; border:none; background-color:#4f545c; margin:14px 0;" />
+---
+
+## 💫 About Me:
+
+Curiosity first, then code.
+
+- 💻 Focused on **Web Development**
+- 🌱 Learning **Machine Learning**
+- 🤝 Enjoy collaborating on meaningful work
+
+**💭 A little more about me**  
+Quiet at first, curious always. I open up when ideas and intent align.
+
+---
+
+##  🧩 My Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,git,github,linux&size=24" />
+</p>
 
 ---
 
@@ -33,11 +32,24 @@ I may seem reserved at first, but I open up quickly when the conversation has pu
 
 ---
 
-✨ **Thanks for stopping by!**  
-If you’re reading this, you’re already curious too.
+✨**Thanks for visiting!**<br>
+Curiosity has a way of finding its people..
+
+
+
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandhyakaushal&theme=radical)
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandhyakaushal&theme=github_dark"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+
+
+
 
 ## 📊 LeetCode Stats
 
