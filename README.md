@@ -6,11 +6,11 @@
 
 ## 💫 About Me:
 
-Curiosity first, then code.
+Curiosity drives me, code defines me.
 
-- 💻 Focused on **Web Development**
+- 💻 Focused on **Data Structure and Algorithms**
 - 🌱 Learning **Machine Learning**
-- 🤝 Enjoy collaborating on meaningful work
+- 📚 Always learning and improving every day
 
 **💭 A little more about me**  
 Quiet at first, curious always. I open up when ideas and intent align.
